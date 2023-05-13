@@ -1,0 +1,98 @@
+{
+    "app_name_1": "Fit",
+    "app_name_2": "App",
+
+    "log_in_to_continue": "Войдите что бы продолжить",
+    "login": "Логин",
+    "password": "Пароль",
+    "forgot_password": "Забыли пароль?",
+    "enter": "Вход",
+    "have_an_account": "Еще нету аккаутна?",
+    "sign_up": "Регистрация",
+
+    "create_acc": "Создать аккаунт",
+    "back": "Назад",
+    "repeat_password": "Повторите пароль",
+    "create": "Создать",
+
+    "first_name": "Имя",
+    "last_name": "Фамилия",
+    "birth_date": "Дата рождения",
+    "sex": "Пол",
+    "phone_number": "Номер",
+    "email": "Почта",
+    "continue_text": "Продолжить",
+
+    "subscription_type": "Виды абонементов",
+    "choose": "Выбрать",
+    "centers": "Центры",
+    "coaches": "Треннеры",
+    "almaty": "Алматы",
+
+    "select_contract": "Выбрать контракт",
+    "skip": "Проп.",
+    
+    "contract_start": "Начать контракт",
+    "i_confirm": "Я подтверждаю, что прочитал и принимаю",
+    "rules": "правила посещения клуба.",
+    "i_agree": "Я согласен на сбор и обработку моих персональных данных в соответствии с",
+    "agreement": "клиентским соглашением",
+    "confirm": "Подтвердить",
+
+    "success": "Успех",
+    "payment_success": "Оплата прошла успешно!",
+    "error": "Ошибка",
+    "smt_went_wrong": "Что-то пошло не так!",
+    "try_again": "Повторить",
+    "enter_club": "Вход / Выход",
+    "txt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "review": "Оставить отзыв",
+
+    "attendance": "История",
+    "your_coach": "Треннер",
+    "your_sub": "Контракт",
+    "support": "Поддержка",
+
+    "settings": "Настройки",
+    "payment_method": "Способ оплаты",
+    "edit_profile": "Редактировать профиль",
+    "change_password": "Изменить пароль",
+    "change_language": "Выбрать язык",
+    "change_subscription": "Изменить подписку",
+    "switch_language": "Семнить язык",
+    "exit": "Выйти",
+
+    "timetable": "Время",
+
+    "home": "Главная",
+    "timetable": "Тренировки",
+    "coach": "Треннеры",
+    "profile": "Профиль",
+
+    "interesting": "Интересное",
+    "hello": "Привет",
+    "buy": "Купить",
+
+    "sex": "Пол",
+    "male": "Мужчина",
+    "female": "Женщина",
+    "birth_date": "Дата рождение",
+
+    "rating": "Рейтинг",
+    "coments": "Комментарии",
+    "club": "Клуб",
+    "time": "Время",
+    "weekdays": "Рабочие дни",
+    "type": "Типа",
+    "price": "Цена",
+
+     "auth_error": "Неправильный логин или пароль. Повторите еще раз!",
+     "connection_error": "Нет подключения к сети!",
+
+    "change_password": "Поменять пароль",
+    "current_pass": "Существующий пароль",
+    "new_pass": "Новый пароль",
+    "repeat_new_pass": "Подтвердите новый пароль",
+
+     "promo": "Промо"
+}
